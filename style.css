@@ -1,0 +1,34 @@
+h1{
+  Color : Grey;
+  
+}
+p{
+  color : White;
+  border-color: Grey;
+  
+  
+}
+li{
+  color : White;
+  size: 60 g;
+}
+body{
+  background-color : Black;
+}
+
+
+h4{
+  color : Green;
+}
+h6{
+  color: white;
+}
+button{
+  color: white;
+  background-color: green;
+}
+a{
+  color : Green;
+  
+  
+}
